@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "AMD RX6800XT",
+        "subtitle" : "The Radeon RX 6800 XT is a high-end graphics card by AMD, launched on October 28th, 2020.",
+        "img_url" : "https://i.pinimg.com/564x/2d/9f/8c/2d9f8ccef8aff6a3f1f83dafc307675b.jpg",
+        "detail" : "Compute Units 72 \n Boost Frequence Up to 2250 MHz \nGame Frequence 2015 MHz \n Ray Accelerators 72 \n Peak Pixel Fill-Rate Up to 288 GP/s \n Peak Texture Fill-Rate Up to 648 GT/s"
+    },
+    {
+        "title" : "NVIDIA RTX 4090",
+        "subtitle" : "The GeForce RTX 4090 is an enthusiast-class graphics card by NVIDIA, launched on September 20th, 2022.",
+        "img_url" : "https://i.pinimg.com/564x/80/ac/43/80ac43fe73d0433e4c35543df680ccb5.jpg",
+        "detail" : "The Ada architecture unleashes the full glory of ray tracing, which simulates how light behaves in the real world. With the power of RTX 40 Series and third-gen RT Cores, you can experience incredibly detailed virtual worlds like never before."
+    },
+    {
+        "title" : "INTEL ARC A770",
+        "subtitle" : "The Arc A770 is a performance-segment graphics card by Intel, launched on October 12th, 2022.",
+        "img_url" : "https://game.intel.com/wp-content/uploads/2022/08/arc-a770-rgb-1920.png",
+        "detail" : "Built on the 6 nm process, and based on the DG2-512 graphics processor, in its ACM-G10 variant, the card supports DirectX 12 Ultimate. This ensures that all modern games will run on Arc A770."
+    }
+]
